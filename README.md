@@ -5,7 +5,6 @@ Simulación de planta industrial automatizada con MuJoCo, OpenCV y robot Franka 
 
 ## Estructura
 - main.py: Lanzador principal de la simulación
-- src/config.py: Constantes y parámetros globales
 - src/planta.py: Clase coordinadora y bucle principal
 - src/cinta_transportadora.py: Control de cintas
 - src/camara_inspeccion.py: Procesamiento con OpenCV
